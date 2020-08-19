@@ -1,0 +1,92 @@
+.navbar {
+
+    padding: 0rem 7rem !important;
+
+
+}
+.text-red
+{
+    color: red;
+}
+.nav-link {
+
+    margin: 0 15px;
+    font-family: 'Teko', sans-serif;
+    font-size: 24px; 
+    color: black !important;
+}
+
+
+h1,h2,h3,h4,h5,h6 
+{
+    font-family: 'Teko', sans-serif !important;
+}
+
+p
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.section 
+{
+padding-top: 54px;
+padding-bottom: 54px;
+}
+
+.underline
+{
+    width: 92px;
+    height: 4px;
+    background-color: red;
+}
+
+
+.section-title
+{
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.bg-f2f2f2
+{
+    background-color: #f2f2f2;
+}
+
+.bg-image
+{
+    background-image: url(../images/bgimg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-attachment: fixed;
+
+}
+
+
+
+.card-text{
+
+font-size: 13px !important;
+}
+
+
+.testi-img img {
+
+    width: 20% !important;
+    height: 20% !important;
+
+}
+
+.footer-link
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.f-14
+{
+    font-size: 13px;
+}
+
