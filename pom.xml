@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
-  <artifactId>webpage-example</artifactId>
+  <artifactId>my_website</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>webpage app</name>
+  <name>my-webpage</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>webpage-example</finalName>
+    <finalName>my-webpage</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
