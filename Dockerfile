@@ -5,6 +5,6 @@ From tomcat:8-jre8
 # Maintainer 
 MAINTAINER "rajeevmgnair@gmail.com"
 
-COPY my-webpage.war /usr/local/apache2/htdocs
+COPY my-webpage.war /usr/local/tomcat/webapps
 
-#COPY test.php /usr/local/apache2/htdocs
+ 
