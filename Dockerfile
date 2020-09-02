@@ -1,5 +1,5 @@
 # Pull base image 
-From httpd:latest
+From tomcat:8-jre8
 
 
 # Maintainer 
